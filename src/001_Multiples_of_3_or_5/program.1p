@@ -1,0 +1,29 @@
+[Result is not exactly the correct answer as we only handle fully 
+11
+(pop|"<*)
+1
+(sub|11+1<11+##1+^1+^11+#/"/^"/^\\<11+*1+\^#)
+(pop)(pop)11+1<<
+111++"*"+"*11+"""**++[Put 334 on stack, x]
++ [Remove redundant zero]
+11+ [Put 2 on stack, k]
+(div|1/"/11+1<#(sub)\"/^"/</(pop)(pop)\11+1<<1+#\\\1+/"/11+1<#\\(pop)(pop)\)
+11"+""*""1+"*+**+11+"""**+"*+[Put 333 on stack]
+* [Multiply 333 and 167]
+11+1+ [Put 3 on the stack]
+* [Multiply 55611 and 3]
+11"++""1++"+"*+1+ [Push 200]
+11+ [Push 2]
+(div)
+11"++""1++"+"*+ [Push 199]
+* [Multiply 100 and 199]
+111+"*+ [Push 5]
+* [Multiply 19990 by 5]
+11"+""*""**++ [Push 67]
+11+ [Push 2]
+(div)
+11+""*""**+ [Push 66]
+* [Multiply 66 and 33]
+11"++"""*++ [Push 15]
+* [Multiply 2178 by 15]
+\\+^(sub):
