@@ -22,5 +22,4 @@ You notice something interesting about the distribution of odd and even numbers
 </details>
 
 # Code
-
-Long story short, no internet access for this one so I didn't get to use an esolang for it. I just smacked the numbers into a spreadsheet and hey-presto. So we're calling this one "complete in Excel" :-)
+The rockstar code can be run via [the rockstar site](https://codewithrockstar.com/online). It loops until the variable `Robbie` is greater than fib(34). Each loop it multiplies `Robbie` by phi^3 and adds this value, after rounding, to an accumulator `Timmy`. 
